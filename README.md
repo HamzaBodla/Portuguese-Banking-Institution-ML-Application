@@ -41,6 +41,6 @@ The dataset used for this project is derived from a Portuguese banking instituti
 
 •	y: has the client subscribed a term deposit? (binary: 'yes','no')
 
-##Note:
+## Note:
 
 The jupyter file in the repository explains the functioning of the code.
